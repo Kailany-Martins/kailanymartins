@@ -1,9 +1,9 @@
 # Olá, eu sou a Kailany
 
-## Atualmente estudando
-- Redes de Computadores  
-- Lógica de Programação  
-- Sistemas
+## 📚 Atualmente estudando
+-  Redes de Computadores  
+-  Lógica de Programação  
+-  Fundamentos de Sistemas 
 
 ## 🛠️ Tecnologias e ferramentas
 <div style="display: inline_block"><br>
