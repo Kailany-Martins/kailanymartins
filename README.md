@@ -1,4 +1,6 @@
-# Olá, eu sou a Kailany
+# 👩‍💻 Olá, eu sou a Kailany!
+-  Assistente de TI | Suporte Técnico  
+-  Foco em Infraestrutura
 
 ## 📚 Atualmente estudando
 -  Redes de Computadores  
